@@ -1,10 +1,7 @@
 module Characters (..) where
 
 
-characterList =
-    List String
-
-
+characterList : List String
 characterList =
     [ "Poe Dameron"
     , "BB8"
